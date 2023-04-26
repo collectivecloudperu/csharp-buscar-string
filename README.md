@@ -1,2 +1,2 @@
-# csharp-buscar-string
-Como Verificar Si Existe un String o Texto con C# (C Sharp)
+# Como Verificar Si Existe un String o Texto con C# (C Sharp) 
+Tutorial: https://youtu.be/qsHnUTJYEe0 
