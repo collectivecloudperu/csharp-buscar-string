@@ -1,0 +1,15 @@
+D:\contenidos\nc\tutoriales\youtube\csharp-buscar-string\bin\Debug\net7.0\csharp-buscar-string.exe
+D:\contenidos\nc\tutoriales\youtube\csharp-buscar-string\bin\Debug\net7.0\csharp-buscar-string.deps.json
+D:\contenidos\nc\tutoriales\youtube\csharp-buscar-string\bin\Debug\net7.0\csharp-buscar-string.runtimeconfig.json
+D:\contenidos\nc\tutoriales\youtube\csharp-buscar-string\bin\Debug\net7.0\csharp-buscar-string.dll
+D:\contenidos\nc\tutoriales\youtube\csharp-buscar-string\bin\Debug\net7.0\csharp-buscar-string.pdb
+D:\contenidos\nc\tutoriales\youtube\csharp-buscar-string\obj\Debug\net7.0\csharp-buscar-string.csproj.AssemblyReference.cache
+D:\contenidos\nc\tutoriales\youtube\csharp-buscar-string\obj\Debug\net7.0\csharp-buscar-string.GeneratedMSBuildEditorConfig.editorconfig
+D:\contenidos\nc\tutoriales\youtube\csharp-buscar-string\obj\Debug\net7.0\csharp-buscar-string.AssemblyInfoInputs.cache
+D:\contenidos\nc\tutoriales\youtube\csharp-buscar-string\obj\Debug\net7.0\csharp-buscar-string.AssemblyInfo.cs
+D:\contenidos\nc\tutoriales\youtube\csharp-buscar-string\obj\Debug\net7.0\csharp-buscar-string.csproj.CoreCompileInputs.cache
+D:\contenidos\nc\tutoriales\youtube\csharp-buscar-string\obj\Debug\net7.0\csharp-buscar-string.dll
+D:\contenidos\nc\tutoriales\youtube\csharp-buscar-string\obj\Debug\net7.0\refint\csharp-buscar-string.dll
+D:\contenidos\nc\tutoriales\youtube\csharp-buscar-string\obj\Debug\net7.0\csharp-buscar-string.pdb
+D:\contenidos\nc\tutoriales\youtube\csharp-buscar-string\obj\Debug\net7.0\csharp-buscar-string.genruntimeconfig.cache
+D:\contenidos\nc\tutoriales\youtube\csharp-buscar-string\obj\Debug\net7.0\ref\csharp-buscar-string.dll
